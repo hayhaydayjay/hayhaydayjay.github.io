@@ -2,6 +2,7 @@
 *{
     margin:0;
     padding:0;
+    box-sizing: border-box;
 }
 
 .content{
@@ -13,7 +14,7 @@
 
 .container{
     width: 100%;
-    height: 175dvh;
+    height: 125dvh;
     background-image:url(icecream\ background.jpg);
     padding-left: 8%;
     padding-right: 8%;
@@ -45,3 +46,4 @@
     font-weight: bold;
     font-size: 22px;
 }
+
