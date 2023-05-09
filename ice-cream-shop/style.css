@@ -3,6 +3,7 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
+    box-shadow: 2;
 }
 
 .content{
@@ -31,12 +32,17 @@
 
 .logo{
     width: 400px;
+    height: 100px;
     cursor: pointer;
+    border: 20px;
 }
 
 .navbar{
     text-align:right;
     flex: 1;
+    text-shadow: 1;
+    text-size-adjust: 14;
+    border: 10px;
 }
 
 .navbar a{
