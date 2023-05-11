@@ -53,8 +53,14 @@
 }
 
 .container-fluid{
-    columns: 2;
+    text-align: center;
+    columns: 1;
 }
+
+.container-fluid{
+    column-count: 3;
+}
+
 
 
 
