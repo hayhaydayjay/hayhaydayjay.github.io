@@ -1,49 +1,31 @@
 
 *{
-    margin:0;
+    margin: 0;;
     padding:0;
+    background-image: url(images/pinkbackground.jpg);
 }
 
-.content{
-    color: rgb(250, 6, 6);
+.Frankies{
+    color: red;
+    text-align: center;
     font-size: xx-large;
-    font-weight: 400;
     font-style: italic;
-    margin: 300px;
 }
 
-.container{
-    width: 100%;
-    height: 125dvh;
-    background-image:url(icecream\ background.jpg);
-    opacity: .9;
-    padding-left: 8%;
-    padding-right: 8%;
-    box-sizing: border-box;
-}
 
-.header{
-    height:15%;
-    display:flex;
-    align-items:center;
-    overflow:hidden;
-    position: relative;
-}
-
-.logo{
-    width: 400px;
-    height: 125px;
-    cursor: pointer;
+.icecreamlogo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .navbar{
     text-align:right;
-    flex: 1;
-    text-size-adjust: 14;
-    border: 10px;
     color:black;
-    font-weight: bold;
-    font-size: 16px;
+    font-weight: bolder;
+    font-size: 14;
+    margin-top: 10px;
+    margin-right: 10px;
 }
 
 .container-fluid{
@@ -55,6 +37,10 @@
 
 .form-row{
     text-align: center;
-    align-items: center;
-    padding: 10px;
+    font-style: italic;
+    font-size: 14;
+    font-weight: bolder;
+    padding: 5px;
+    margin-top: 10px;
 }
+
