@@ -1,21 +1,35 @@
 Name: David Johnson
-Course: Software Engineering Boot Camp
-Project 1 - basic business website
-
-Overview:   building an information based website for an ice cream shop where you can view the menu and get contact information
-How to use website:   hyperlinks are included on each page for easier navagation between home, menu and about us section.
+Course: Software Engineering Boot Camp 2023
+Project 1:  Basic Business Website
+Github page: https://github.com/hayhaydayjay
+ice.cream.shop.repository(project 1): https://hayhaydayjay.github.io/
+Validation Service: https://validator.w3.org/
 Technology used:    HTML5 & CSS
+
+Overview:   building an information based website for an ice cream shop where you can view the menu and get/give contact information
+
+How to use website:   
+-enter in https://hayhaydayjay.github.io/ from a computer or smartphone
+-this will direct you to the home page of the ice cream shop
+-the home screen displays a shop picture with some information and hyperlinks in the top right corner
+-the hyperlinks will take you to the menu or about us page; and even back to the home page
+-menu page displays our 6 flavors with pictures of each
+-in the about us page, you can enter in information for an event and submit to us
+
+
+
 Ideas for future improvent
   a) include more CSS
-  b) apply headings more properly
+  b) follow html5 page structure more closely
   c) better use of tags and attributes
-  d) add borders to text or images for more professional look
+  d) add borders to text and images for more professional look
   e) commit after every change instead of every so often
 
 
-DELIVERABLES
+--DELIVERABLES--
 
-1.    User Stories
+
+USER STORIES
 
 As a customer
 I want to see what flavors are available
@@ -30,8 +44,7 @@ I want to locate contact information for the business
 So I can contact them for potential business in the near future
 
 
-2.    Wireframes
-
+WIREFRAMES
 Home
 --Logo and business name at top centered
 --Navigation menu on top right with links to the other pages (e.g. Menu, Contact Us)
@@ -46,7 +59,7 @@ Menu Page
 --Information about store including hours, address, phone # and contact e-mail
 
 About Us
--- Logo and business name at top centered
+--Logo and business name at top centered
 --Navigation menu on top right with links to the other pages (e.g. Menu, Contact Us)
 --Form with first name, last name and email (all required) with a submit button
 --Information about store including hours, address, phone # and contact e-mail
