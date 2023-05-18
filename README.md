@@ -17,17 +17,17 @@ Overview:   building an information based website for an ice cream shop where yo
 
 How to use website:   
 
-enter in https://hayhaydayjay.github.io/ from a computer or smartphone
+-enter in https://hayhaydayjay.github.io/ from a computer or smartphone
 
-this will direct you to the home page of the ice cream shop
+-this will direct you to the home page of the ice cream shop
 
-the home screen displays a shop picture with some information and hyperlinks in the top right corner
+-the home screen displays a shop picture with some information and hyperlinks in the top right corner
 
-the hyperlinks will take you to the menu or about us page; and even back to the home page
+-the hyperlinks will take you to the menu or about us page; and even back to the home page
 
-menu page displays our 6 flavors with pictures of each
+-menu page displays our 6 flavors with pictures of each
 
-in the about us page, you can enter in information for an event and submit to us
+-in the about us page, you can enter in information for an event and submit to us
 
 
 
@@ -44,23 +44,16 @@ Ideas for future improvent
   e) commit after every change instead of every so often
 
 
---DELIVERABLES--
+---DELIVERABLES--_
 
 
 USER STORIES
 
-As a customer
-I want to see what flavors are available
-So that I can order quick and efficiently
+As a customer, I want to see what flavors are available so that I can order quick and efficiently.
 
-As a store owner
-I want to have a user-friendly website
-So customers can navigate easily through the different pages
+As a store owner, I want to have a user-friendly website so customers can navigate easily through the different pages.
 
-As a visitor
-I want to locate contact information for the business 
-So I can contact them for potential business in the near future
-
+As a visitor, I want to locate contact information for the business so I can contact them for potential business in the near future.
 
 
 WIREFRAMES
@@ -84,9 +77,10 @@ Menu Page
 --Navigation menu on top right with links to the other pages (e.g. Menu, Contact Us)
 
 --3 columns displaying our flavors with image and quote for each
+
 --Information about store including hours, address, phone # and contact e-mail
 
-About Us
+About Us Page
 
 --Logo and business name at top centered
 
