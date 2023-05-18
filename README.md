@@ -1,9 +1,15 @@
 Name: David Johnson
+
 Course: Software Engineering Boot Camp 2023
+
 Project 1:  Basic Business Website
+
 Github page: https://github.com/hayhaydayjay
+
 ice.cream.shop.repository(project 1): https://hayhaydayjay.github.io/
+
 Validation Service: https://validator.w3.org/
+
 Technology used:    HTML5 & CSS
 
 Overview:   building an information based website for an ice cream shop where you can view the menu and get/give contact information
