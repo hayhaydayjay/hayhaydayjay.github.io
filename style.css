@@ -2,7 +2,12 @@
 *{
     margin: 0;
     padding: 0;
-    background-image: url(images/pinkbackground.jpg);
+    background-image: url(images/pink.background.jpg); 
+}
+
+<style>
+body {
+    background-image: url(images/);
 }
 
 .Frankies{
